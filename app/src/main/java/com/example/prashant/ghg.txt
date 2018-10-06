@@ -1,3 +1,5 @@
+user 2
+----------
 User 1
 ---------
 Hello Friend h
